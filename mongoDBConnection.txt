@@ -1,0 +1,4 @@
+50l7oF7DHluS1TRz
+
+connection string:
+mongodb+srv://rossmorrowhouston:50l7oF7DHluS1TRz@mailinglistdb.ydpsqsq.mongodb.net/?retryWrites=true&w=majority&appName=MailingListDB
